@@ -1,2 +1,2 @@
-# duo-git-andregustavo (Edição do André)
+# duo-git-andregustavo (Edição Conjunta André e Gustavo)
 Projeto em dupla.
